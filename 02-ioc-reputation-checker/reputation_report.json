@@ -1,0 +1,25 @@
+{
+    "checked": [
+        {
+            "ip": "8.8.8.8",
+            "abuse_score": 0,
+            "total_reports": 237,
+            "country": "US",
+            "isp": "Google LLC",
+            "last_reported": "2026-10-23T00:00:23+00:00"
+        },
+        {
+            "ip": "1.1.1.1",
+            "abuse_score": 0,
+            "total_reports": 158,
+            "country": "AU",
+            "isp": "APNIC and Cloudflare DNS Resolver project",
+            "last_reported": "2026-10-23T00:04:28+00:00"
+        }
+    ],
+    "skipped": [
+        "192.0.2.55",
+        "999.999.999.999"
+    ],
+    "errors": []
+}

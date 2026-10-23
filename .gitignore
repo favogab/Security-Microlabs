@@ -221,3 +221,7 @@ __marimo__/
 
 # Venv
 .venv/
+
+.env
+.env.*
+!.env.example
