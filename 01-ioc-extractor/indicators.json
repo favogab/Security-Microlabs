@@ -1,0 +1,21 @@
+{
+    "ipv4": [
+        "192.0.2.55",
+        "198.51.100.42",
+        "203.0.113.17"
+    ],
+    "domains": [
+        "example.org",
+        "malware-delivery.example",
+        "payload.exe",
+        "secure-payments.example"
+    ],
+    "urls": [
+        "https://example.org/download",
+        "https://malware-delivery.example/payload.exe",
+        "https://secure-payments.example/login"
+    ],
+    "sha256": [
+        "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    ]
+}

@@ -1,0 +1,32 @@
+
+SECURITY INCIDENT REPORT
+
+An employee received a phishing email from
+billing@secure-payments.example.
+
+The email directed the victim to
+https://secure-payments.example/login.
+
+Network logs show connections to
+198.51.100.42 and 203.0.113.17.
+
+Further investigation identified
+198.51.100.42 in another event.
+
+Additional suspicious connection: 192.0.2.55
+Invalid address observed: 999.999.999.999
+Repeated connection: 203.0.113.17
+
+Additional investigation findings:
+
+The attacker downloaded a payload from
+https://malware-delivery.example/payload.exe
+
+The suspicious domain was malware-delivery.example.
+
+SHA-256 hash of the downloaded file:
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Another connection was made to 192.0.2.55.
+
+The analyst observed https://example.org/download.
